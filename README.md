@@ -1,3 +1,11 @@
+# ⚠️ 已归档
+
+> 本项目已归档，内容合并至 [AI Governance Framework](https://github.com/billgaohub/AIUCE)。
+> 
+> 新的文件整理工具：[IPIPQ](https://github.com/billgaohub/ipipq)
+
+---
+
 # Agent Sovereignty Rules
 
 > AI Agent 的决策权保护框架
